@@ -40,3 +40,5 @@ message = client.messages.create(
 )
 
 print(message.sid)
+print(account_sid)
+print(auth_token)
