@@ -1,5 +1,4 @@
 name: Send WhatsApp Daily
-
 on:
   workflow_dispatch:
   schedule:
